@@ -1,15 +1,15 @@
-# thrivegevity
+# Thrivegevity
 Guidance for how to enjoy a long meaningful existence.
 
 
 
-# Thrivgevity: a daily zone framework for lifelong adaptation
+# Thrivegevity: a daily zone framework for lifelong adaptation
 
 ## The core idea
 
 The human body and mind naturally seek equilibrium. Left alone, they conserve energy, repeat familiar patterns, and maintain the current level of function. That is excellent for survival, but it is not enough for long-term vitality.
 
-Thrivgevity is the deliberate practice of moving beyond equilibrium across the major dimensions of life.
+Thrivegevity is the deliberate practice of moving beyond equilibrium across the major dimensions of life.
 
 Think of each area as having three useful zones.
 
@@ -21,7 +21,7 @@ The goal is not to live in Zone 5. The goal is to **recover in Zone 1, spend mos
 
 ---
 
-# The five pillars of Thrivgevity
+# The five pillars of Thrivegevity
 
 ## 1. Physical vitality
 
@@ -254,7 +254,7 @@ Purpose: expand creative identity and capability.
 
 ---
 
-# The daily Thrivgevity prescription
+# The daily Thrivegevity prescription
 
 A practical target is surprisingly simple.
 
@@ -300,11 +300,11 @@ The same principle applies to learning, relationships, meditation, and creativit
 
 ---
 
-# The Thrivgevity motto
+# The Thrivegevity motto
 
 Traditional aging tends to drift toward maintenance.
 
-Thrivgevity intentionally schedules adaptation.
+Thrivegevity intentionally schedules adaptation.
 
 **Recover in Zone 1.**
 
