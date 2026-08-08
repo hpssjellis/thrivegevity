@@ -1,7 +1,7 @@
 # Thrivegevity
 Guidance for how to enjoy a long meaningful existence.
 
-
+**Athletic maxim: No pain, no gain. Thrivgevity maxim: Brief strain, lasting gain.**
 
 # Thrivegevity: a daily zone framework for lifelong adaptation
 
@@ -312,4 +312,4 @@ Thrivegevity intentionally schedules adaptation.
 
 **Upgrade through brief Zone 5.**
 
-**No strain, no long-term joy.**
+**Athletic maxim: No pain, no gain. Thrivgevity maxim: Brief strain, lasting gain.**
