@@ -1,8 +1,8 @@
-# Thrivgevity
+# Thrivegevity
 
 ### Brief strain, lasting gain.
 
-**Thrivgevity is an open-source framework for lifelong adaptation.**
+**Thrivegevity is an open-source framework for lifelong adaptation.**
 
 **A body, mind, and life that are regularly challenged tend to remain capable longer than one that is permanently optimized for comfort.**
 
@@ -12,15 +12,15 @@ The goal is not constant stress. Not suffering. Not becoming an elite athlete, a
 
 Modern life encourages us to remove every inconvenience, automate every effort, and stay within familiar routines. Comfort has real benefits, but a life with too little challenge can gradually reduce physical capacity, intellectual flexibility, emotional resilience, social confidence, and creative vitality.
 
-Thrivgevity proposes a different approach: manage the relationship between **recovery, adaptation, and challenge** — deliberately, and in small doses.
+Thrivegevity proposes a different approach: manage the relationship between **recovery, adaptation, and challenge** — deliberately, and in small doses.
 
 ---
 
 ## The Zones — 1, 2, and 5
 
-Thrivgevity borrows its numbering from exercise-physiology heart-rate zones (the kind your Garmin or Apple Watch already tracks), which is why the zones are labeled 1, 2, and 5 rather than 1, 2, and 3.
+Thrivegevity borrows its numbering from exercise-physiology heart-rate zones (the kind your Garmin or Apple Watch already tracks), which is why the zones are labeled 1, 2, and 5 rather than 1, 2, and 3.
 
-> **Why the gap?** In HR-zone training, Zones 3 and 4 form a continuum between steady aerobic effort and true high-intensity work — useful for athletes fine-tuning training load, but not necessary for a general life framework. Thrivgevity keeps the *number labels* consistent with your watch (so "Zone 2" means the same thing whether you're talking about your heart rate or your habits) but collapses that middle continuum, since for most people the practical distinction that matters is just: **recovery, steady adaptation, or brief hard signal.**
+> **Why the gap?** In HR-zone training, Zones 3 and 4 form a continuum between steady aerobic effort and true high-intensity work — useful for athletes fine-tuning training load, but not necessary for a general life framework. Thrivegevity keeps the *number labels* consistent with your watch (so "Zone 2" means the same thing whether you're talking about your heart rate or your habits) but collapses that middle continuum, since for most people the practical distinction that matters is just: **recovery, steady adaptation, or brief hard signal.**
 
 | Zone | Name | What it is |
 |---|---|---|
@@ -217,4 +217,4 @@ Perhaps the opposite of aging isn't simply living longer. Perhaps it's continuin
 
 ---
 
-*Thrivgevity is open source and intended to evolve with evidence and use. Exercise, sleep, nutrition, and social connection are well supported by research; the rest is a practical synthesis meant to be tested, discussed, and improved. Contributions and forks welcome.*
+*Thrivegevity is open source and intended to evolve with evidence and use. Exercise, sleep, nutrition, and social connection are well supported by research; the rest is a practical synthesis meant to be tested, discussed, and improved. Contributions and forks welcome.*
