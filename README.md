@@ -1,8 +1,12 @@
-# Thrivegevity
+# [Thrivegevity](https://hpssjellis.github.io/thrivegevity/)
 
 ### Brief strain, lasting gain.
 
+
 **Thrivegevity is an open-source framework for lifelong adaptation, productivity, and purpose.**
+Github for this site at [https://github.com/hpssjellis/thrivegevity](https://github.com/hpssjellis/thrivegevity)
+
+# Short name "ThriveG"
 
 **A body, mind, and life that are regularly challenged tend to remain capable longer than one that is permanently optimized for comfort.**
 
