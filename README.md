@@ -3,7 +3,8 @@
 ### Small strain, lasting gain.
 
 **Thrivegevity is an open-source framework for lifelong adaptation, purpose, contribution, and capability.**
-Github for this site at [https://github.com/hpssjellis/thrivegevity](https://github.com/hpssjellis/thrivegevity)
+
+The Github for this site is at [https://github.com/hpssjellis/thrivegevity](https://github.com/hpssjellis/thrivegevity)
 
 # Short name "ThriveG"
 
