@@ -715,6 +715,65 @@ A 20-year-old student, a 60-year-old runner, a retired musician, and someone rec
 
 ---
 
+## 🌐 Thrivegevity System Diagram — All Seven Categories
+
+Below is a high‑level systems diagram showing how the seven categories interconnect.  
+Category 7 (“Longevity Infrastructure & Self‑Quantification”) acts as the meta‑layer that feeds data into all others.
+
+```
+                           ┌──────────────────────────┐
+                           │  7. Longevity            │
+                           │  Infrastructure &        │
+                           │  Self‑Quantification     │
+                           │  (Sensors, Labs, Data)   │
+                           └───────────┬──────────────┘
+                                       │
+        ┌──────────────────────────────┼──────────────────────────────┐
+        │                              │                              │
+        ▼                              ▼                              ▼
+┌──────────────┐              ┌────────────────┐             ┌────────────────┐
+│ 1. Nutrition │◄────────────►│ 2. Exercise    │◄───────────►│ 3. Sleep       │
+│ (Fuel)       │   Metrics     │ (Movement)     │   Metrics    │ (Recovery)    │
+└──────────────┘              └────────────────┘             └────────────────┘
+        ▲                              ▲                              ▲
+        │                              │                              │
+        └──────────────────────────────┼──────────────────────────────┘
+                                       │
+                                       ▼
+                           ┌──────────────────────────┐
+                           │ 4. Stress Management     │
+                           │ (Regulation)             │
+                           └──────────────────────────┘
+                                       ▲
+                                       │
+        ┌──────────────────────────────┼──────────────────────────────┐
+        │                              │                              │
+        ▼                              ▼                              ▼
+┌────────────────┐             ┌────────────────┐             ┌────────────────┐
+│ 5. Environment │◄───────────►│ 6. Social      │◄───────────►│ 7. Longevity   │
+│ (Context)      │   Feedback   │ (Connection)   │   Feedback   │ Infrastructure │
+└────────────────┘             └────────────────┘             └────────────────┘
+```
+
+### How to read this diagram
+- **Category 7** sits at the top because it *feeds data downward* into every other category.  
+- The **core triad** (Nutrition, Exercise, Sleep) forms the physiological base.  
+- **Stress** sits centrally because it modulates all physiological systems.  
+- **Environment** and **Social** act as contextual amplifiers.  
+- Arrows show **bidirectional feedback loops** — every category influences the others.
+
+### Optional additions
+If you want, I can also generate:
+
+- A **color version** (ASCII or Mermaid)  
+- A **Mermaid.js diagram** for GitHub auto‑rendering  
+- A **circular systems map**  
+- A **zone‑based diagram** showing Zone 1/2/5 across all categories  
+
+Just tell me the style you want.
+
+
+
 # The Most Important Principle
 
 Thrivgevity is not about maximizing stress.
