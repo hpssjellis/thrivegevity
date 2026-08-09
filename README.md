@@ -128,7 +128,7 @@ The creative Zone 5 experience often contains one powerful ingredient: **the pos
 
 ### 6. Nutrition
 
-Nutrition stays deliberately simple. **This is not a diet program** — no supplements, no calorie counting, no expensive foods required.
+Nutrition stays deliberately simple. **This is not a diet program** — no calorie counting, no expensive foods required.
 
 | Zone 1 — Equilibrium | Zone 2 — Adaptation | Zone 5 — Careful, occasional |
 |---|---|---|
